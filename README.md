@@ -24,8 +24,8 @@ Le script permet l'installation automatique et prête à l'emploi des services s
 
 ## 🖼️ Screenshots
 
-![Menu principal](images/menus/main.png)
-![Configuration basique](images/menus/base.png)
+![Menu principal](screenshots/main-menu.png)
+![Configuration basique](screenshots/base-menu.png)
 
 ---
 
