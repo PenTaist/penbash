@@ -23,8 +23,6 @@ Le script permet l'installation automatique et prête à l'emploi des services s
 
 ---
 
----
-
 ## 🖼️ Screenshots
 
 ![Menu principal](images/menus/main.png)
