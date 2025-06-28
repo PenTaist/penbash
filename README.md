@@ -1,5 +1,4 @@
-# PenBash
-## 🔧 Script Bash de Déploiement et d’Administration Système
+# 🔧 PenBash
 
 ## 📌 Description
 
