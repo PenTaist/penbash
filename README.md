@@ -34,5 +34,5 @@ Le script permet l'installation automatique et prête à l'emploi des services s
 ### 1. Lancer le script
 
 ```bash
-chmod +x penbash.sh
-sudo ./penbash.sh
+chmod +x penba.sh
+sudo ./penba.sh
