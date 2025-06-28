@@ -1,4 +1,5 @@
-# 🔧 Script Bash de Déploiement et d’Administration Système
+# PenBash
+## 🔧 Script Bash de Déploiement et d’Administration Système
 
 ## 📌 Description
 
@@ -15,41 +16,19 @@ Le script permet l'installation automatique et prête à l'emploi des services s
 - **Pile LAMP** (Linux, Apache, MySQL/MariaDB, PHP)
 - **WordPress** (avec base de données et configuration Apache)
 - **GLPI** (outil de gestion de parc informatique)
-- **Docker** (avec installation de Docker et Docker Compose)
+- **Podman** (Docker amélioré)
 - **CheckMK** (outil de supervision)
 - **NextCloud** (solution de cloud personnel)
-- **Serveur ZFS** (installation de ZFS et configuration de partages)
+- **Serveur ZFS** (installation du serveur ZFS et configuration de partages)
 
 ---
 
-### 📋 Menu Principal
-
-Interface interactive simple et intuitive permettant de naviguer entre les différentes fonctionnalités :
-
-- **Mises à jour** du système
-- **Modification du nom d’hôte** (hostname)
-
 ---
 
-### 👥 Gestion des utilisateurs et groupes
+## 🖼️ Screenshots
 
-Fonctionnalités pour faciliter l'administration des comptes utilisateurs :
-
-- **Ajout / suppression** d’utilisateurs
-- **Ajout / suppression** de groupes
-- **Modification des mots de passe**
-- **Ajout / suppression des droits sudo** (avec ou sans mot de passe grâce à `NOPASSWD`)
-
----
-
-### 🌐 Configuration réseau
-
-Personnalisation facile des paramètres réseau via menu :
-
-- **Adresse IP statique**
-- **Passerelle (gateway)**
-- **Serveurs DNS**
-- **Serveur DHCP**
+![Menu principal](images/menus/main.png)
+![Configuration basique](images/menus/base.png)
 
 ---
 
@@ -58,5 +37,5 @@ Personnalisation facile des paramètres réseau via menu :
 ### 1. Lancer le script
 
 ```bash
-chmod +x admin-tools.sh
-sudo ./admin-tools.sh
+chmod +x penbash.sh
+sudo ./penbash.sh
